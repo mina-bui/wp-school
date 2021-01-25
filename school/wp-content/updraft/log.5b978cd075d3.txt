@@ -1,0 +1,321 @@
+0000.001 (0) Opened log file at time: Tue, 05 Jan 2021 21:00:12 +0000 on http://localhost/vancouver
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.45 WP: 5.6 PHP: 7.4.9 (apache2handler, Windows NT DESKTOP-3P3K620 10.0 build 18363 (Windows 10) AMD64) MySQL: 5.7.31 WPLANG: en_CA Server: Apache/2.4.46 (Win64) PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 18.2M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 171227.9 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.011 (0) Semaphore (fd, wp_options) being initialised
+0000.014 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.016 (0) Set semaphore last lock (fd) time to 2021-01-05 21:00:12
+0000.018 (0) Semaphore lock (fd) complete
+0000.022 (0) Backup run: resumption=0, nonce=5b978cd075d3, file_nonce=5b978cd075d3 begun at=1609880412 (0s ago), job type=backup
+0000.024 (0) Scheduling a resumption (1) after 300 seconds (1609880712) in case this run gets aborted
+0000.051 (0) Checking if we have a zip executable available
+0000.054 (0) Creation of backups of directories: beginning
+0000.060 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.292 (0) Total entities for the zip file: 681 directories, 3636 files (0 skipped as non-modified), 65.1 MB
+0002.364 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.432 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.499 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.565 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.631 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.693 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12 MB, 591 (591) files added so far); re-opening (prior size: 0 KB)
+0003.697 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 600 files added (on-disk size: 5797.9 KB)
+0003.767 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 700 files added (on-disk size: 5797.9 KB)
+0003.835 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 800 files added (on-disk size: 5797.9 KB)
+0003.902 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 900 files added (on-disk size: 5797.9 KB)
+0003.969 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1000 files added (on-disk size: 5797.9 KB)
+0004.037 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1100 files added (on-disk size: 5797.9 KB)
+0004.104 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1200 files added (on-disk size: 5797.9 KB)
+0004.172 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1300 files added (on-disk size: 5797.9 KB)
+0004.263 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1400 files added (on-disk size: 5797.9 KB)
+0004.331 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1500 files added (on-disk size: 5797.9 KB)
+0004.394 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.9 MB, 3636 files batched, 1001 (1592) added so far); re-opening (prior size: 5797.9 KB)
+0006.669 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1600 files added (on-disk size: 12443 KB)
+0006.737 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1700 files added (on-disk size: 12443 KB)
+0006.806 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1800 files added (on-disk size: 12443 KB)
+0006.877 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 1900 files added (on-disk size: 12443 KB)
+0006.946 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2000 files added (on-disk size: 12443 KB)
+0007.014 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2100 files added (on-disk size: 12443 KB)
+0007.080 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2200 files added (on-disk size: 12443 KB)
+0007.147 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2300 files added (on-disk size: 12443 KB)
+0007.231 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2400 files added (on-disk size: 12443 KB)
+0007.300 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2500 files added (on-disk size: 12443 KB)
+0007.364 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.1 MB, 3636 files batched, 1001 (2593) added so far); re-opening (prior size: 12443 KB)
+0011.301 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2600 files added (on-disk size: 17704.7 KB)
+0011.368 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2700 files added (on-disk size: 17704.7 KB)
+0011.435 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2800 files added (on-disk size: 17704.7 KB)
+0011.502 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 2900 files added (on-disk size: 17704.7 KB)
+0011.567 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3000 files added (on-disk size: 17704.7 KB)
+0011.633 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3100 files added (on-disk size: 17704.7 KB)
+0011.701 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3200 files added (on-disk size: 17704.7 KB)
+0011.769 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3300 files added (on-disk size: 17704.7 KB)
+0011.850 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3400 files added (on-disk size: 17704.7 KB)
+0011.918 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3500 files added (on-disk size: 17704.7 KB)
+0011.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16 MB, 3636 files batched, 1001 (3594) added so far); re-opening (prior size: 17704.7 KB)
+0014.302 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip.tmp: 3600 files added (on-disk size: 24850.4 KB)
+0014.908 (0) Created plugins zip (0) - 24911.1 KB in 14.8 s (1678.3 KB/s) (sha1: 8a65e82025fe9b304d05e7b5b296f1e9737c974c, sha256: 58f136e0f48e78ca8f7a856652228cc71f3beed055520ca8f9c5503bba360bfa)
+0014.913 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.484 (0) Total entities for the zip file: 189 directories, 928 files (0 skipped as non-modified), 16.6 MB
+0015.551 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.617 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.684 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.751 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0015.817 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0015.883 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0015.948 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0016.014 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0016.081 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0017.168 (0) Created themes zip (0) - 11234.8 KB in 2.3 s (4990.2 KB/s) (sha1: 00ee820218ff812377a9459435636116ee130bbc, sha256: d537594f35fad59b275f000d01274b075ba1c717b4890a7b1b4eea78a641a6ea)
+0017.174 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0017.175 (0) Looking for candidates to backup in: C:\wamp64\www\vancouver/wp-content/uploads
+0017.177 (0) finding files: 2021: adding to list (1)
+0017.178 (0) finding files: ao_ccss: adding to list (2)
+0017.179 (0) finding files: wp-migrate-db: adding to list (3)
+0017.180 (0) finding files: wpforms: adding to list (4)
+0017.182 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0017.248 (0) Total entities for the zip file: 6 directories, 115 files (0 skipped as non-modified), 8.7 MB
+0017.312 (0) Zip: backup_2021-01-05-1300_Vancouver_5b978cd075d3-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.523 (0) Created uploads zip (0) - 8945.6 KB in 0.3 s (26536.4 KB/s) (sha1: 794bb6d7edbd058b68141323203ff8cae2e2d24b, sha256: dc6f016cdaa2d35ac4e87b8e1b0240f6a1008d2435849e677ebe3ed3b0be98cd)
+0017.528 (0) Beginning backup of other directories found in the content directory (index: 0)
+0017.530 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0017.531 (0) Looking for candidates to backup in: C:\wamp64\www\vancouver/wp-content
+0017.532 (0) finding files: autoptimize_404_handler.php: adding to list (1)
+0017.533 (0) finding files: cache: skipping: excluded by options
+0017.535 (0) finding files: index.php: adding to list (2)
+0017.536 (0) finding files: languages: adding to list (3)
+0017.537 (0) finding files: mu-plugins: adding to list (4)
+0017.538 (0) finding files: plugins: skipping: this is the plugins directory
+0017.539 (0) finding files: themes: skipping: this is the themes directory
+0017.540 (0) finding files: updraft: skipping: this is the updraft directory
+0017.541 (0) finding files: upgrade: skipping: excluded by options
+0017.542 (0) finding files: uploads: skipping: this is the uploads directory
+0017.543 (0) finding files: wflogs: adding to list (5)
+0017.596 (0) Total entities for the zip file: 5 directories, 96 files (0 skipped as non-modified), 8.8 MB
+0020.829 (0) Created others zip (0) - 3349.6 KB in 3.3 s (1020.7 KB/s) (sha1: e684a81048e2e182f97573a0f2ccc60535727397, sha256: cbdebc085c0e8e82eb249390d464b6c067d1badc4008f52134dbe5e7663eceaa)
+0020.837 (0) Saving backup status to database (elements: 8)
+0020.841 (0) Beginning creation of database dump (WordPress DB)
+0020.842 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+0020.870 (0) Table wp_options: Total expected rows (approximate): 260
+0020.926 (0) Table wp_options: Rows added in this batch (next record: 442): 256 (uncompressed bytes in this segment=761932) in 0.05 seconds
+0020.944 (0) Table wp_options: finishing file(s) (2, 181.9 KB)
+0020.949 (0) Table wp_users: Total expected rows (approximate): 1
+0020.953 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1389) in 0.00 seconds
+0020.965 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0020.971 (0) Table wp_usermeta: Total expected rows (approximate): 23
+0020.975 (0) Table wp_usermeta: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=2182) in 0.00 seconds
+0020.989 (0) Table wp_usermeta: finishing file(s) (2, 1.2 KB)
+0020.995 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 6
+0020.999 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 138): 6 (uncompressed bytes in this segment=3955) in 0.00 seconds
+0021.012 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1 KB)
+0021.024 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0021.027 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=633) in 0.00 seconds
+0021.040 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0021.046 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0021.049 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=706) in 0.00 seconds
+0021.063 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0021.078 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 12
+0021.082 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=1856) in 0.00 seconds
+0021.095 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.6 KB)
+0021.102 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0021.105 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0021.118 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0021.123 (0) Table wp_comments: Total expected rows (approximate): 1
+0021.127 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2148) in 0.00 seconds
+0021.141 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0021.147 (0) Table wp_links: Total expected rows (approximate): 0
+0021.150 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0021.164 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0021.170 (0) Table wp_postmeta: Total expected rows (approximate): 239
+0021.186 (0) Table wp_postmeta: Rows added in this batch (next record: 405): 239 (uncompressed bytes in this segment=28991) in 0.01 seconds
+0021.201 (0) Table wp_postmeta: finishing file(s) (2, 4.7 KB)
+0021.207 (0) Table wp_posts: Total expected rows (approximate): 122
+0021.252 (0) Table wp_posts: Rows added in this batch (next record: 154): 122 (uncompressed bytes in this segment=251711) in 0.04 seconds
+0021.266 (0) Table wp_posts: finishing file(s) (2, 32.8 KB)
+0021.272 (0) Table wp_term_relationships: Total expected rows (approximate): 35
+0021.276 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 35 (uncompressed bytes in this segment=1170) in 0.00 seconds
+0021.291 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0021.296 (0) Table wp_term_taxonomy: Total expected rows (approximate): 14
+0021.302 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 15): 14 (uncompressed bytes in this segment=1448) in 0.00 seconds
+0021.316 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0021.322 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0021.325 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0021.338 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0021.344 (0) Table wp_terms: Total expected rows (approximate): 14
+0021.348 (0) Table wp_terms: Rows added in this batch (next record: 15): 14 (uncompressed bytes in this segment=1265) in 0.00 seconds
+0021.361 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0021.367 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0021.370 (0) Table wp_wfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=629) in 0.00 seconds
+0021.383 (0) Table wp_wfblockediplog: finishing file(s) (2, 0.4 KB)
+0021.389 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0021.392 (0) Table wp_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=811) in 0.00 seconds
+0021.405 (0) Table wp_wfblocks7: finishing file(s) (2, 0.4 KB)
+0021.411 (0) Table wp_wfconfig: Total expected rows (approximate): 233
+0021.426 (0) Table wp_wfconfig: Rows added in this batch (next record: 1000): 233 (uncompressed bytes in this segment=86145) in 0.01 seconds
+0021.442 (0) Table wp_wfconfig: finishing file(s) (2, 18.1 KB)
+0021.448 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0021.451 (0) Table wp_wfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=552) in 0.00 seconds
+0021.466 (0) Table wp_wfcrawlers: finishing file(s) (2, 0.3 KB)
+0021.473 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0021.476 (0) Table wp_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=452) in 0.00 seconds
+0021.489 (0) Table wp_wffilechanges: finishing file(s) (2, 0.3 KB)
+0021.495 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+0021.497 (0) Table wp_wffilemods: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=790) in 0.00 seconds
+0021.510 (0) Table wp_wffilemods: finishing file(s) (2, 0.4 KB)
+0021.516 (0) Table wp_wfhits: Total expected rows (approximate): 0
+0021.520 (0) Table wp_wfhits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=901) in 0.00 seconds
+0021.533 (0) Table wp_wfhits: finishing file(s) (2, 0.5 KB)
+0021.539 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0021.542 (0) Table wp_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=476) in 0.00 seconds
+0021.556 (0) Table wp_wfhoover: finishing file(s) (2, 0.3 KB)
+0021.562 (0) Table wp_wfissues: Total expected rows (approximate): 0
+0021.565 (0) Table wp_wfissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.00 seconds
+0021.578 (0) Table wp_wfissues: finishing file(s) (2, 0.4 KB)
+0021.585 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 0
+0021.588 (0) Table wp_wfknownfilelist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=431) in 0.00 seconds
+0021.603 (0) Table wp_wfknownfilelist: finishing file(s) (2, 0.3 KB)
+0021.609 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0021.612 (0) Table wp_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+0021.626 (0) Table wp_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0021.632 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0021.636 (0) Table wp_wflocs: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=682) in 0.00 seconds
+0021.649 (0) Table wp_wflocs: finishing file(s) (2, 0.4 KB)
+0021.655 (0) Table wp_wflogins: Total expected rows (approximate): 0
+0021.658 (0) Table wp_wflogins: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.00 seconds
+0021.672 (0) Table wp_wflogins: finishing file(s) (2, 0.4 KB)
+0021.679 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0021.682 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.00 seconds
+0021.695 (0) Table wp_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0021.701 (0) Table wp_wfls_settings: Total expected rows (approximate): 19
+0021.705 (0) Table wp_wfls_settings: Rows added in this batch (next record: 1000): 19 (uncompressed bytes in this segment=1590) in 0.00 seconds
+0021.718 (0) Table wp_wfls_settings: finishing file(s) (2, 0.8 KB)
+0021.724 (0) Table wp_wfnotifications: Total expected rows (approximate): 0
+0021.728 (0) Table wp_wfnotifications: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=616) in 0.00 seconds
+0021.743 (0) Table wp_wfnotifications: finishing file(s) (2, 0.4 KB)
+0021.750 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0021.753 (0) Table wp_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=846) in 0.00 seconds
+0021.768 (0) Table wp_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0021.774 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0021.777 (0) Table wp_wfreversecache: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=497) in 0.00 seconds
+0021.791 (0) Table wp_wfreversecache: finishing file(s) (2, 0.3 KB)
+0021.798 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0021.801 (0) Table wp_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=701) in 0.00 seconds
+0021.814 (0) Table wp_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0021.827 (0) Table wp_wfstatus: Total expected rows (approximate): 10
+0021.831 (0) Table wp_wfstatus: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1504) in 0.00 seconds
+0021.845 (0) Table wp_wfstatus: finishing file(s) (2, 0.7 KB)
+0021.851 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0021.854 (0) Table wp_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=566) in 0.00 seconds
+0021.867 (0) Table wp_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0021.880 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 3
+0021.884 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=904) in 0.00 seconds
+0021.899 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0021.902 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_options.table.tmpr443.gz (1/38): adding to final database dump
+0021.943 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_options.table.gz (2/38): adding to final database dump
+0021.944 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_users.table.tmpr2.gz (3/38): adding to final database dump
+0021.946 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_users.table.gz (4/38): adding to final database dump
+0021.948 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_usermeta.table.tmpr24.gz (5/38): adding to final database dump
+0021.949 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_usermeta.table.gz (6/38): adding to final database dump
+0021.951 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_actions.table.tmpr139.gz (7/38): adding to final database dump
+0021.952 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_actions.table.gz (8/38): adding to final database dump
+0021.953 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/38): adding to final database dump
+0021.955 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_claims.table.gz (10/38): adding to final database dump
+0021.956 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/38): adding to final database dump
+0021.958 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_groups.table.gz (12/38): adding to final database dump
+0021.959 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_logs.table.tmpr13.gz (13/38): adding to final database dump
+0021.961 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_actionscheduler_logs.table.gz (14/38): adding to final database dump
+0021.962 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_commentmeta.table.tmpr0.gz (15/38): adding to final database dump
+0021.963 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_commentmeta.table.gz (16/38): adding to final database dump
+0021.965 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_comments.table.tmpr2.gz (17/38): adding to final database dump
+0021.966 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_comments.table.gz (18/38): adding to final database dump
+0021.968 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_links.table.tmpr0.gz (19/38): adding to final database dump
+0021.969 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_links.table.gz (20/38): adding to final database dump
+0021.971 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_postmeta.table.tmpr406.gz (21/38): adding to final database dump
+0021.975 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_postmeta.table.gz (22/38): adding to final database dump
+0021.976 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_posts.table.tmpr155.gz (23/38): adding to final database dump
+0021.986 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_posts.table.gz (24/38): adding to final database dump
+0021.988 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_term_relationships.table.tmpr100001.gz (25/38): adding to final database dump
+0021.989 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_term_relationships.table.gz (26/38): adding to final database dump
+0021.991 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_term_taxonomy.table.tmpr16.gz (27/38): adding to final database dump
+0021.992 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_term_taxonomy.table.gz (28/38): adding to final database dump
+0021.994 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_termmeta.table.tmpr0.gz (29/38): adding to final database dump
+0021.995 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_termmeta.table.gz (30/38): adding to final database dump
+0021.997 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_terms.table.tmpr16.gz (31/38): adding to final database dump
+0021.998 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_terms.table.gz (32/38): adding to final database dump
+0022.000 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfblockediplog.table.tmpr1.gz (33/38): adding to final database dump
+0022.001 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfblockediplog.table.gz (34/38): adding to final database dump
+0022.002 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfblocks7.table.tmpr0.gz (35/38): adding to final database dump
+0022.004 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfblocks7.table.gz (36/38): adding to final database dump
+0022.005 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfconfig.table.tmpr1001.gz (37/38): adding to final database dump
+0022.014 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfconfig.table.gz (38/38): adding to final database dump
+0022.015 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfcrawlers.table.tmpr1.gz (39/38): adding to final database dump
+0022.017 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfcrawlers.table.gz (40/38): adding to final database dump
+0022.018 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wffilechanges.table.tmpr1.gz (41/38): adding to final database dump
+0022.020 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wffilechanges.table.gz (42/38): adding to final database dump
+0022.021 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wffilemods.table.tmpr1.gz (43/38): adding to final database dump
+0022.022 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wffilemods.table.gz (44/38): adding to final database dump
+0022.024 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfhits.table.tmpr0.gz (45/38): adding to final database dump
+0022.025 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfhits.table.gz (46/38): adding to final database dump
+0022.027 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfhoover.table.tmpr0.gz (47/38): adding to final database dump
+0022.028 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfhoover.table.gz (48/38): adding to final database dump
+0022.029 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfissues.table.tmpr0.gz (49/38): adding to final database dump
+0022.031 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfissues.table.gz (50/38): adding to final database dump
+0022.032 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfknownfilelist.table.tmpr0.gz (51/38): adding to final database dump
+0022.034 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfknownfilelist.table.gz (52/38): adding to final database dump
+0022.035 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wflivetraffichuman.table.tmpr1.gz (53/38): adding to final database dump
+0022.036 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wflivetraffichuman.table.gz (54/38): adding to final database dump
+0022.038 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wflocs.table.tmpr1.gz (55/38): adding to final database dump
+0022.039 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wflocs.table.gz (56/38): adding to final database dump
+0022.041 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wflogins.table.tmpr0.gz (57/38): adding to final database dump
+0022.042 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wflogins.table.gz (58/38): adding to final database dump
+0022.044 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfls_2fa_secrets.table.tmpr0.gz (59/38): adding to final database dump
+0022.045 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfls_2fa_secrets.table.gz (60/38): adding to final database dump
+0022.046 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfls_settings.table.tmpr1001.gz (61/38): adding to final database dump
+0022.048 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfls_settings.table.gz (62/38): adding to final database dump
+0022.049 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfnotifications.table.tmpr1.gz (63/38): adding to final database dump
+0022.051 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfnotifications.table.gz (64/38): adding to final database dump
+0022.052 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfpendingissues.table.tmpr0.gz (65/38): adding to final database dump
+0022.054 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfpendingissues.table.gz (66/38): adding to final database dump
+0022.055 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfreversecache.table.tmpr1.gz (67/38): adding to final database dump
+0022.057 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfreversecache.table.gz (68/38): adding to final database dump
+0022.058 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfsnipcache.table.tmpr0.gz (69/38): adding to final database dump
+0022.059 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfsnipcache.table.gz (70/38): adding to final database dump
+0022.061 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfstatus.table.tmpr11.gz (71/38): adding to final database dump
+0022.062 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wfstatus.table.gz (72/38): adding to final database dump
+0022.064 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wftrafficrates.table.tmpr1.gz (73/38): adding to final database dump
+0022.065 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wftrafficrates.table.gz (74/38): adding to final database dump
+0022.066 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wpforms_tasks_meta.table.tmpr4.gz (75/38): adding to final database dump
+0022.068 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db-table-wp_wpforms_tasks_meta.table.gz (76/38): adding to final database dump
+0022.127 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db.gz: finished writing out complete database file (232 KB)
+0022.165 (0) Total database tables backed up: 38 (backup_2021-01-05-1300_Vancouver_5b978cd075d3-db.gz, size: 249840, sha1: 41ba3d99e198b8cc7605c4667896bc7e1ac3867e, sha256: 659c1950608c0c5661f676ab0dd47512b998a3a379f3510ced6744e8061cff5c)
+0022.174 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0022.175 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0022.177 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0022.178 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0022.179 (0) backup_2021-01-05-1300_Vancouver_5b978cd075d3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0022.181 (0) Saving backup history. Total backup size: 47.5 MB
+0022.184 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0022.188 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0022.189 (0) No remote despatch: user chose no remote backup service
+0022.190 (0) Recording as successfully uploaded: backup_2021-01-05-1300_Vancouver_5b978cd075d3-plugins.zip
+0022.193 (0) Recording as successfully uploaded: backup_2021-01-05-1300_Vancouver_5b978cd075d3-themes.zip
+0022.196 (0) Recording as successfully uploaded: backup_2021-01-05-1300_Vancouver_5b978cd075d3-uploads.zip
+0022.198 (0) Recording as successfully uploaded: backup_2021-01-05-1300_Vancouver_5b978cd075d3-others.zip
+0022.201 (0) Recording as successfully uploaded: backup_2021-01-05-1300_Vancouver_5b978cd075d3-db.gz
+0022.207 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0022.209 (0) Number of backup sets in history: 1; groups (db): 1
+0022.210 (0) Examining (for databases) backup set with group_id=0, nonce=5b978cd075d3, datestamp=1609880412 (Jan 05 2021 21:00:12)
+0022.211 (0) This backup set is the backup set just made, so will not be deleted.
+0022.211 (0) Number of backup sets in history: 1; groups (files): 1
+0022.212 (0) Examining (for files) backup set with nonce=5b978cd075d3, datestamp=1609880412 (Jan 05 2021 21:00:12)
+0022.212 (0) This backup set is the backup set just made, so will not be deleted.
+0022.213 (0) This backup set is the backup set just made, so will not be deleted.
+0022.214 (0) This backup set is the backup set just made, so will not be deleted.
+0022.214 (0) This backup set is the backup set just made, so will not be deleted.
+0022.215 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0022.216 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0022.219 (0) Resume backup (5b978cd075d3, 0): finish run
+0022.221 (0) Decremented the semaphore (fd) by 1
+0022.222 (0) Semaphore (fd) unlocked
+0022.224 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0022.228 (0) The backup apparently succeeded and is now complete
+0022.229 (0) No email will/can be sent - the user has not configured an email address.
+0022.231 (0) The backup apparently succeeded and is now complete.
